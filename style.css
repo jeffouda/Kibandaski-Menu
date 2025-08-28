@@ -10,3 +10,18 @@ body {
 .entire {
   background-color: lightgreen;
 }
+
+h1 {
+  font-size: 50px;
+  text-align: center;
+}
+
+h2 {
+  font-size: 25px;
+  text-align: center;
+}
+table {
+  border-collapse: collapse;
+  width: 50%;
+  border: 1px solid black, padding 3px;
+}
