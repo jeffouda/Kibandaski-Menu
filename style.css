@@ -43,8 +43,8 @@ header p {
   margin: 20px 0 10px;
   font-size: 1.8rem;
   color: gray;
-  border-bottom: 2px solid white;
   padding-bottom: 5px;
+  border-bottom: 2px solid white;
 }
 
 /* MENU ITEMS  */
@@ -77,4 +77,8 @@ header p {
   font-weight: bold;
   color: maroon;
   margin-left: 20px;
+}
+footer {
+  font-size: 12px;
+  text-align: center;
 }
